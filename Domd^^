@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Para Mi Solecito</title>
+<style>
+  body {
+    background-color: #ffcccc; /* Fondo rosado */
+    font-family: 'Arial', sans-serif;
+  }
+  h1, h2, p {
+    font-family: 'Georgia', serif;
+    text-align: center;
+    color: #800080; /* Púrpura */
+  }
+  .center {
+    text-align: center;
+  }
+  .torre-izquierda {
+    float: left;
+    width: 50%;
+    padding-right: 20px;
+  }
+  .torre-derecha {
+    float: right;
+    width: 50%;
+    padding-left: 20px;
+  }
+  img, iframe {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  .youtube-container {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+  <div class="center">
+    <p style="font-size: 1.2em;">Quería esperar más tiempo para decirte, pero no puedo esperar más. El amor siempre me pareció algo aburrido e innecesario, hasta que te conocí y desde el primer instante mi corazón late muchísimo por ti...</p>
+    <img src="dome1.png">
+    <h1>Me gustas mucho</h1>
+  </div>
+  <div class="youtube-container">
+    <iframe width="750" height="560" src="https://www.youtube.com/embed/ymdft6FmbUY?rel=0" frameborder="1" allowfullscreen></iframe>
+  </div>
+  <h2 class="center">Esta canción siempre me hace pensar en ti</h2>
+  <div class="center">
+    <p>Me encanta pasar tiempo a tu lado, cuando estoy junto a ti, todas mis tristezas y males desaparecen, en esos cortos momentos que nos vemos, soy realmente el hombre más feliz del mundo<3.</p>
+    <img src="pom.png">
+    <h1>¿Quieres ser mi novia?</h1>
+    <p>Te cuidaré y te amaré siempre, en los momentos malos y en los buenos, seré quien te proteja del mal del mundo, y quien te haga sentir feliz a diario, pues eres esa brisa de primavera que más he estado esperando. Te amo mi dulce corazón<3</p>
+    <img src="domekiss.png">
+  </div>
+</body>
+</html>
